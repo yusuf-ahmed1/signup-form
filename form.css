@@ -1,0 +1,20 @@
+.firstname{
+    margin-top: 3px;
+}
+::placeholder{
+    color:cyan
+}
+
+.dropdown{
+    margin-bottom: 100px;
+}
+.numbertext{
+    margin-left: 45%;
+}
+.number{
+    margin-left: 10%;
+}
+.submit{
+    margin-left: 45%;
+    margin-top: 30px;
+}
